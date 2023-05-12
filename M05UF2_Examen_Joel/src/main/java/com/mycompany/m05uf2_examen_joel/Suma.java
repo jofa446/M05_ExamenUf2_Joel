@@ -18,10 +18,26 @@ public class Suma {
         this.num2 = num2;
     }
 
+ sumaValorAbsolut
 
 
     public int sumaValorAbsolut() {
         return Math.abs(num1) + Math.abs(num2);
     }
+
+getNum1
+
+
+    public int getNum1() {
+        return num1;
+    }
+
+
+
+    public int sumar() {
+        return num1 + num2;
+    }
+  main
+main
 }
 
